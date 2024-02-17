@@ -4,7 +4,7 @@ A simple Java program to determine a number's divisibility by two without the us
 
 ## Usage
 
-`IsEven.java` is the primary program. `Config.java` is used to scale `IsEven.java`'s range. This allows for the a trade-off between range, size and time.
+`IsEven.java` is the primary program. `Config.java` is used to scale `IsEven.java`'s range. This allows for the a trade-off between range, size and time. `IsEven.java` has been pre-configured to cover the 7291 best numbers.
 
 ## Folder Structure
 
