@@ -21879,6 +21879,9 @@ public class IsEven {
 		if(7291 == num){
 			even = false;
 		}
+		if(7292 == num){
+			even = true;
+		}
 		input.close();
 		System.out.println(num + " is even: " + even);
 	}
